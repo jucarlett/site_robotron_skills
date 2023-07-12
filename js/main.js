@@ -52,6 +52,7 @@ function manipulaDados(operacao, controle) {
 }
 
 function atualizaEstatistica(peca) {
+  
   estatistica.forEach((elemento) => {
     elemento.textContent =
       parseInt(elemento.textContent) +
