@@ -231,3 +231,12 @@ main {
         margin: 10vh auto;
     }
 }
+.rodape-ju {
+    font-size: 1.3em;
+    border-bottom: 1px solid var(--main-cinza);
+    color: var(--main-branco);
+    flex-basis: 40%;
+    text-transform: uppercase;
+    order: 1
+    
+}
